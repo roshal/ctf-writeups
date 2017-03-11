@@ -1,0 +1,13 @@
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+nonogram_solver/__init__.py
+nonogram_solver/nonogram.py
+nonogram_solver/solver.py
+nonogram_solver.egg-info/PKG-INFO
+nonogram_solver.egg-info/SOURCES.txt
+nonogram_solver.egg-info/dependency_links.txt
+nonogram_solver.egg-info/requires.txt
+nonogram_solver.egg-info/top_level.txt

